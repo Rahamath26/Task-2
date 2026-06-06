@@ -22,4 +22,4 @@ Build a Machine Learning model to predict outcomes based on a dataset.
 Achieved an accuracy score of 0.78.
 
 ## Author
-Vineela Moturi
+Rahamath Nisha 
